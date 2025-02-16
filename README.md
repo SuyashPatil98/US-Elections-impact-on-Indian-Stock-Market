@@ -1,5 +1,5 @@
 ### Impact of recent US elections on the Indian Stock Market
-1. Project Overview
+
 Objective: Analyze the impact of US presidential elections on the Indian stock market (e.g., Nifty 50, Sensex, or sectoral indices).
 
 Key Questions:
