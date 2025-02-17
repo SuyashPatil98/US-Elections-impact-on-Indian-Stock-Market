@@ -8,7 +8,7 @@
 3) What is the time lag between the election outcome and its impact on the Indian market?
 4) Can machine learning models predict market movements based on US election data?
 
-### data will be divided into two areas:
+### Data will be divided into two areas:
 1) Indian Stock Market data, a time series data of stocks: NSE Website
  	-NIFTY, BANKNIFTY, SENSEX
  	-Top 5 sectors
