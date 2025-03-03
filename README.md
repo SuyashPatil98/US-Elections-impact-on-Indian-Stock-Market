@@ -45,5 +45,3 @@ Key Features of GDELT:
 4) Global Scope: Covers over 197 countries and can analyze news reports in local languages, offering a broad, worldwide view.
 5) Multimedia Analysis: Analyzes not only text data but also images and videos to provide insight into visual narratives.
 6) Open and Free: The GDELT dataset is publicly accessible, allowing researchers to study global events and trends.
-
-XYZ
